@@ -2,9 +2,14 @@
 ## CLASE 1
 ### Introducción a la asignatura
 
-- En esta primera clase se nos ha explicado y planteado la dinamica y funcionamiento de la asignatura
+- En esta primera clase se nos ha explicado y planteado la dinámica y funcionamiento de la asignatura.
 
 ## CLASE 2
 ### ¿Qué es la sostenibilidad?
 
-- En esta segunda clase hemos estado explorarndo el termino de sotenibilidad, empezando por su signficado tradicional hasta que ha adaptado en la actualidad, asi como tambien se ha visto la diferencia entre ecologismo y ecología
+- En esta segunda clase hemos estado explorando el término de sostenibilidad, empezando por su significado tradicional hasta cómo se ha adaptado en la actualidad, así como también se ha visto la diferencia entre ecologismo y ecología.
+
+## CLASE 3
+### ¿Somos animales?
+
+- Durante la clase de hoy se ha planteado la cuestión de si el ser humano es un animal, añadiendo ciertos argumentos para demostrarlo o desmentirlo, concluyendo que el ser humano es un animal a pesar de tener una conciencia más compleja y un poder de razonamiento superior.
