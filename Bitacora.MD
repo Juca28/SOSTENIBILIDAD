@@ -17,3 +17,5 @@
 #### ¿Acabaremos con la vide en nuestro planeta?
 
 Acabar con la vida en el planeta es algo práctimente imposibile debido a la gran diversidad del planeta, ya que ciertas especies serían capaces de sobrevivir en situciones extremas. No obstante sí que es totalmente posible con casi toda vida humana y animal existente en el planeta.
+
+## CLASE 4
