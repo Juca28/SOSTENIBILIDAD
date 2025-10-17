@@ -1,6 +1,21 @@
 # SOSTENIBILIDAD
 # OCTUBRE
 
+## CLASE 5
+
+### ¿Vivimos solos?
+
+- Durante la clase del viernes 17/10/2025 se ha planteado la cuestion de si vivimos solos, a lo que se ha respondido que obviamente no
+  vivimos en familia, con otras especie, en familia, en sociedad en general, el vivir en sociedad hace que tengamos que modificar 
+  ciertos comportamientos y adecuarnos para la vida en sociedad, de esto mismo surge la cooperación y competitividad.
+
+### ¿Que hacemos nosotros cooperamos o competimos?
+
+- Cooperamos o competimos segun el ambito y la situación en la que nos encontremos, en una situacion laboral competimos y 
+  cooperamos, podemos competir contra otro equipo de desarrollo para sacar mejor resultado que ellos y a la vez cooperar con nuestros 
+  compañeros para obtener es resultado mejor, de modo que no se realiza ni solo una ni solo la otra, sino ambas, a veces a la vez, a veces en 
+  distintos momentos
+
 ## CLASE 4
 
 ### Límite de carga en los ecosistemas
