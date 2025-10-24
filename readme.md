@@ -1,6 +1,20 @@
 # SOSTENIBILIDAD
 # OCTUBRE
 
+## CLASE 6
+
+### Estrategia K y R
+
+- Durante la clase de hoy 24/10/2025, en clase hemos estado analizando las estrategias K y R, en equilibrio y oportunista, estas estrategias
+describen la forma de reproducción de las especies, la estrategia r se basa en una reproducción rápida y masiva pero con una esperanzas de vida mas limitadas,
+mientras que la estrategia k consiste en un reproducción más lenta pero con una esperanza de vida mucho mas larga. 
+
+### ¿Que estrategia seguimos los humanos?
+
+- Los humanos a pesar de que historicamente han seguido en diversas situaciones una estrategia R, en la actualidad usamos una estrategia K, ya que 
+buscamos una esperanza de vida mas larga.
+
+
 ## CLASE 5
 
 ### ¿Vivimos solos?
