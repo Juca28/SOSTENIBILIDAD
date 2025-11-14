@@ -1,4 +1,22 @@
 # SOSTENIBILIDAD
+# NOVIEMBRE
+
+## Clase 8 | El viaje oculto del producto
+
+Durante la clase de hoy se ha planteado el gasto de materiales usados en la creacion de un telefono movil, visto en kilogramos, viendo que para crear un movil de 150 gramos se necesitan 80 kilogramos de materiales, asi como las energias que se pueden usar para la creación del mismo
+
+### Analisis de ciclo de vida (paso de fabricación)
+
+- Según ALBOAN / Tecnología Libre de Conflicto, para producir un solo smartphone se utilizan 44,4 kg de recursos naturales (materias primas). 
+
+- Esa cifra de 44,4 kg incluye la llamada “mochila ecológica”: es decir, todo el uso de materiales desde la extracción, procesamiento, transporte, etc. 
+
+- De esos 44,4 kg, según ese mismo modelo, 6 kg son solo usados para producción o fabricación del telefono movil
+
+![alt text](image.png)
+
+
+
 # OCTUBRE
 
 ## CLASE 6
