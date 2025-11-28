@@ -1,6 +1,16 @@
 # SOSTENIBILIDAD
 # NOVIEMBRE
 
+## Clase 9 | Economia Circular
+
+Durante la clase de hoy, se ha mostrado el tema de la economía circular, una economía que por decirlo de algún modo se retroalimenta, con los desechos que se producen se genera un negocio y este desecho vuelve como materia prima para crear más cosas. Se ha usado para explicar esto el ejemplo de como un coche va al desguace, de el sale chatarra y esta chatarra es fundida para usar el metal y crear más coches.
+
+### Pregunta: ¿En que nos afecta el ecodiseño?
+
+- Nos afecta en la creación de empleo, con este tipo de economía se genera empleo que se encarga en los procesos de la reutilización de los desechos
+
+![alt text](image-1.png)
+
 ## Clase 8 | El viaje oculto del producto
 
 Durante la clase de hoy se ha planteado el gasto de materiales usados en la creacion de un telefono movil, visto en kilogramos, viendo que para crear un movil de 150 gramos se necesitan 80 kilogramos de materiales, asi como las energias que se pueden usar para la creación del mismo
