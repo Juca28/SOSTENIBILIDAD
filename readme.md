@@ -1,4 +1,19 @@
 # SOSTENIBILIDAD
+
+# DICIEMBRE
+
+## Clase 10 | Huella ecológico y huella de carbono
+
+Durante la clase de hoy se ha explicado lo que es la huella de carbono, que mide la cantidad de gases de efecto invernadero que genera una persona, empresa o actividad, y la huella ecológica que mide cuánta naturaleza (recursos) se necesita para sostener el estilo de vida de alguien o de una comunidad.
+
+### ¿Cual es nuestra huella de carbono?
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+Como se ve en las imagenes mi huella de carbono y ecológica es algo elevada, no obastante y a pesar de que ciertos aspectos se podrian mejorar, se valoran algunas cosas en el cuestionario que afectan inevitablemente al resultado de forma negativa, como el transporte público, que en jumilla escasea bastante, asi como si la energia que consumo es renovable pudiendo venir esta de placas solares o si los alimentos que consumo son no envasados, no procesados o locales. Estos ultimos factores dependen bastante del poder económico de la persona y no son culpa directa del individuo.
+
 # NOVIEMBRE
 
 ## Clase 9 | Economia Circular
