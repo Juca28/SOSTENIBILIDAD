@@ -2,6 +2,18 @@
 
 # DICIEMBRE
 
+## Clase 11 | Cambio Climático
+
+Durante la clase de hoy se ha comentado el problema del cambio climático y cómo este nos afecta como sociedad. Del mismo modo, se ha explicado cómo el Ministerio de Defensa interviene en este asunto y las complicaciones que este problema conlleva. También se han visto algunas políticas de mitigación del cambio climático.
+
+### ¿Cuál es el principal emisor de CO₂ y qué podemos hacer en nuestro oficio para ayudar en este problema?
+
+- La quema de combustibles fósiles como el carbón, el petróleo y el gas natural para la generación de energía y el transporte, seguida por la industria y la deforestación, son los mayores emisores de CO₂.
+
+- Como programadores, trabajaremos en alguna empresa que necesite algún tipo de servidor o incluso varios de estos. Una forma de minimizar los desechos que podemos producir y ayudar a mitigar el cambio climático sería hacer uso de componentes antiguos para crear o reparar los servidores de la empresa.
+
+![alt text](image-4.png)
+
 ## Clase 10 | Huella ecológico y huella de carbono
 
 Durante la clase de hoy se ha explicado lo que es la huella de carbono, que mide la cantidad de gases de efecto invernadero que genera una persona, empresa o actividad, y la huella ecológica que mide cuánta naturaleza (recursos) se necesita para sostener el estilo de vida de alguien o de una comunidad.
