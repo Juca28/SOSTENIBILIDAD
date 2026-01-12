@@ -1,5 +1,19 @@
 # SOSTENIBILIDAD
 
+# ENERO
+
+## Clase 09/01/2026 | Contaminación y Residuos
+
+Debido a mi ausencia de esta clase dado a ciertos problemas personales el commit de esta clase sera con lo que me ha pasado mi compañero Pedro
+
+- Hoy con Miguel hemos visto la Contaminación y Residuos es uno de los mayores problemas que tenemos en nuestro mundo debido a que la gente tira a la basura objetos o comida que aun se pueden reutilizar de alguna forma, al tirar estos objetos provocamos un problema gravemente a todo lo que nos rodea como la tierra, el agua, el aire, etc..., Un ejemplo de a quien perjudicamos con estas acciones son algunas tribus Indus donde se tienen que bañar en un rio para bautizarse por motivo de su religión y ese rio en el que se bañan esta contaminado por fabricas que desechan esos residuos que nosotros tiramos y muchos Indus son envenenados al meterse al rio tóxico y un ejemplo de producto muy contaminante para el agua son las toallitas de vater ya que al tirar esa toallita se junta con más toallitas y se forma en un pegote gigante donde atasca la corriente del agua y cuando llega al mar miles peces se envenenan y esos peces son los que nos comemos luego, asi que al tirar algo a la basura o al vater hay que pensarselo mejor
+
+### ¿Porque cambias de móvil?
+
+- Cambio de móvil en aquel momento en el que el móvil que tenga deje de cumplir sus funciones de forma correcta y estas no tengan una reparación que me salga a cuentas en comparación con comprar un teléfono nuevo, por ejemplo si se me rompe la pantalla se la cambio si la rotura no es muy grave, no obstante si el teléfono deja de encenderse o se reinicia aleatoriamente sin motivo compraria otro.
+
+![alt text](image-5.png)
+
 # DICIEMBRE
 
 ## Clase 11 | Cambio Climático
