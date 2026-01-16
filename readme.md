@@ -2,6 +2,16 @@
 
 # ENERO
 
+## Clase 16/01/2026 | Agenda 2030 y ODS
+
+Durante la clase de hoy se ha explicado que es la agenda 2030 y los objetivos de desarrollo sostenible, la agenda 2030 es un plan global de la ONU para erradicar la pobreza, proteger el planeta y asegurar prosperidad. Funciona a través de 17 objetivos de desarrollo sostenible (ODS) que equilibran tres dimensiones: económica, social y ambiental.
+
+### ¿Crees que se van a conseguir los ODS?
+
+Tal y como de idílicos se plantean y a la marcha que va la situación actual, al menos en este pais, no parece que para el año 2030, teniendo en cuenta que faltan 4 años, creo que estamos lejos de conseguir los objetivos de desarrollo sostenible
+
+![alt text](image-6.png)
+
 ## Clase 09/01/2026 | Contaminación y Residuos
 
 Debido a mi ausencia de esta clase dado a ciertos problemas personales el commit de esta clase sera con lo que me ha pasado mi compañero Pedro
