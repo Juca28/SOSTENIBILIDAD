@@ -2,6 +2,20 @@
 
 # ENERO
 
+## Clase 23/01/2026 | Plan de sostenibilidad empresarial
+
+Durante la clase hemos hablado de los planes de sostenibilidad empresarial , se ha hablado de los ISO 9000 e ISO 14000 que son estándares internacionales de gestión , el ISO 9000 se encarga de la gestion de calidad y el 14000 de la gestion ambiental.
+
+Respecto al plan de sostenibilidad he etendido a grandes rasgos son planes que hacen las empresas en las que se realizan acciones sostenibles en buscando un poco el beneficio de la empresa. Para conseguir esto se ha comentado que las empresas han de mirar problema empresa, mirar opiniones alrededor.
+
+La sostenibilidad no es una ópcion sino una condición de supervivencia(Ecodependencia, Translimitación, Cambio de paradigma),la sostenibilidad nos interesa dado a que sin estas en algun punto nos quedaremos sin recursos lo cual lleva al declive de empresas, se hace un analisis y surgen unas lineas de actuación, surgen unos indicadores KPIs
+
+### ¿Esto es Greenwhasing o sostenibilidad real?
+
+En mi opinion, creo que esto es Greenwashing ya no creo que haya empresas que les interes tomar alternativas mas caras o cambiar todo su modo de funcionar solo por ser sostenible.
+
+![alt text](image-7.png)
+
 ## Clase 16/01/2026 | Agenda 2030 y ODS
 
 Durante la clase de hoy se ha explicado que es la agenda 2030 y los objetivos de desarrollo sostenible, la agenda 2030 es un plan global de la ONU para erradicar la pobreza, proteger el planeta y asegurar prosperidad. Funciona a través de 17 objetivos de desarrollo sostenible (ODS) que equilibran tres dimensiones: económica, social y ambiental.
