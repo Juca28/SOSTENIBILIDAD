@@ -1,8 +1,16 @@
 # SOSTENIBILIDAD
 
+# FEBRERO
+
+## Clase 16 (06/02/2026) | Exposiciones de pagina web
+
+Durante la clase de hoy se han realizado las exposiciones de las paginas web grupales 
+
+![alt text](image-15.png)
+
 # ENERO
 
-## Clase 23/01/2026 | Plan de sostenibilidad empresarial
+## Clase 15 (23/01/2026) | Plan de sostenibilidad empresarial
 
 Durante la clase hemos hablado de los planes de sostenibilidad empresarial , se ha hablado de los ISO 9000 e ISO 14000 que son estándares internacionales de gestión , el ISO 9000 se encarga de la gestion de calidad y el 14000 de la gestion ambiental.
 
@@ -16,7 +24,7 @@ En mi opinion, creo que esto es Greenwashing ya no creo que haya empresas que le
 
 ![alt text](image-7.png)
 
-## Clase 16/01/2026 | Agenda 2030 y ODS
+## Clase 14 (16/01/2026) | Agenda 2030 y ODS
 
 Durante la clase de hoy se ha explicado que es la agenda 2030 y los objetivos de desarrollo sostenible, la agenda 2030 es un plan global de la ONU para erradicar la pobreza, proteger el planeta y asegurar prosperidad. Funciona a través de 17 objetivos de desarrollo sostenible (ODS) que equilibran tres dimensiones: económica, social y ambiental.
 
@@ -26,7 +34,7 @@ Tal y como de idílicos se plantean y a la marcha que va la situación actual, a
 
 ![alt text](image-6.png)
 
-## Clase 09/01/2026 | Contaminación y Residuos
+## Clase 13 (09/01/2026) | Contaminación y Residuos
 
 Debido a mi ausencia de esta clase dado a ciertos problemas personales el commit de esta clase sera con lo que me ha pasado mi compañero Pedro
 
@@ -40,7 +48,7 @@ Debido a mi ausencia de esta clase dado a ciertos problemas personales el commit
 
 # DICIEMBRE
 
-## Clase 11 | Cambio Climático
+## Clase 12 | Cambio Climático
 
 Durante la clase de hoy se ha comentado el problema del cambio climático y cómo este nos afecta como sociedad. Del mismo modo, se ha explicado cómo el Ministerio de Defensa interviene en este asunto y las complicaciones que este problema conlleva. También se han visto algunas políticas de mitigación del cambio climático.
 
@@ -52,7 +60,7 @@ Durante la clase de hoy se ha comentado el problema del cambio climático y cóm
 
 ![alt text](image-4.png)
 
-## Clase 10 | Huella ecológico y huella de carbono
+## Clase 11 | Huella ecológico y huella de carbono
 
 Durante la clase de hoy se ha explicado lo que es la huella de carbono, que mide la cantidad de gases de efecto invernadero que genera una persona, empresa o actividad, y la huella ecológica que mide cuánta naturaleza (recursos) se necesita para sostener el estilo de vida de alguien o de una comunidad.
 
@@ -66,7 +74,7 @@ Como se ve en las imagenes mi huella de carbono y ecológica es algo elevada, no
 
 # NOVIEMBRE
 
-## Clase 9 | Economia Circular
+## Clase 10 | Economia Circular
 
 Durante la clase de hoy, se ha mostrado el tema de la economía circular, una economía que por decirlo de algún modo se retroalimenta, con los desechos que se producen se genera un negocio y este desecho vuelve como materia prima para crear más cosas. Se ha usado para explicar esto el ejemplo de como un coche va al desguace, de el sale chatarra y esta chatarra es fundida para usar el metal y crear más coches.
 
@@ -75,6 +83,8 @@ Durante la clase de hoy, se ha mostrado el tema de la economía circular, una ec
 - Nos afecta en la creación de empleo, con este tipo de economía se genera empleo que se encarga en los procesos de la reutilización de los desechos
 
 ![alt text](image-1.png)
+
+## Clase 9 | Miguel no ha asistido a clase
 
 ## Clase 8 | El viaje oculto del producto
 
@@ -90,6 +100,16 @@ Durante la clase de hoy se ha planteado el gasto de materiales usados en la crea
 
 ![alt text](image.png)
 
+## Clase 7
+
+### Los recursos infinitos de la tierra
+
+(Este dia no asisti a la claso por lo que el commit es el de Juan Miguel Tarraga)
+
+La finitud de recursos de la tierra es una de las principales razones por las que se quiere hacer de la tierra un lugar más sostenible. Por 
+eso, aprender ahorrar recursos como el agua es algo importantisimo para la vida humana, además, hemos tenido que escoger un metodo de sostenibilidad de recursos.
+
+![alt text](image-14.png)
 
 
 # OCTUBRE
@@ -107,6 +127,7 @@ mientras que la estrategia k consiste en un reproducción más lenta pero con un
 - Los humanos a pesar de que historicamente han seguido en diversas situaciones una estrategia R, en la actualidad usamos una estrategia K, ya que 
 buscamos una esperanza de vida mas larga.
 
+![alt text](image-13.png)
 
 ## CLASE 5
 
@@ -122,6 +143,8 @@ buscamos una esperanza de vida mas larga.
   cooperamos, podemos competir contra otro equipo de desarrollo para sacar mejor resultado que ellos y a la vez cooperar con nuestros 
   compañeros para obtener es resultado mejor, de modo que no se realiza ni solo una ni solo la otra, sino ambas, a veces a la vez, a veces en 
   distintos momentos
+  
+![alt text](image-12.png)
 
 ## CLASE 4
 
@@ -136,18 +159,9 @@ buscamos una esperanza de vida mas larga.
 - Si que lo hay, debido a según se ha visto mediante una gráfica se llega a un punto en el que se estanca y
   no continua el crecimiento de la población
 
+![alt text](image-11.png)
+
 # SEPTIEMBRE
-## CLASE 1
-### Introducción a la asignatura
-
-- En esta primera clase se nos ha explicado y planteado la dinámica y funcionamiento de la asignatura.
-
-## CLASE 2
-### ¿Qué es la sostenibilidad?
-
-- En esta segunda clase hemos estado explorando el término de sostenibilidad, empezando por su 
-significado tradicional hasta cómo se ha adaptado en la actualidad, así como también se ha visto 
-la diferencia entre ecologismo y ecología.
 
 ## CLASE 3
 ### ¿Somos animales?
@@ -161,4 +175,22 @@ a pesar de tener una conciencia más compleja y un poder de razonamiento superio
 - Acabar con la vida en el planeta es algo práctimente imposibile debido a la gran diversidad del planeta, 
 ya que ciertas especies serían capaces de sobrevivir en situciones extremas. No obstante sí que es totalmente
 posible con casi toda vida humana y animal existente en el planeta.
+
+![alt text](image-10.png)
+
+## CLASE 2
+### ¿Qué es la sostenibilidad?
+
+- En esta segunda clase hemos estado explorando el término de sostenibilidad, empezando por su 
+significado tradicional hasta cómo se ha adaptado en la actualidad, así como también se ha visto 
+la diferencia entre ecologismo y ecología.
+
+![alt text](image-9.png)
+
+## CLASE 1
+### Introducción a la asignatura
+
+- En esta primera clase se nos ha explicado y planteado la dinámica y funcionamiento de la asignatura.
+
+![alt text](image-8.png)
 
